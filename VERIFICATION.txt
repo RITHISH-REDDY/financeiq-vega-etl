@@ -1,0 +1,10 @@
+Verification on Windows, Python 3.12.14
+- run.cmd verify: 14 tests passed; generated 56 bank rows / 54 ledger rows.
+- run.cmd etl: 55 unique transactions; repeat run produced the same totals.
+- Receipts 86087.46; payments 47396.53; cash surplus 38690.93; pending review 1.
+- pip check: No broken requirements found.
+- run.cmd: tests, generation, ETL, then Streamlit startup succeeded.
+- HTTP GET http://127.0.0.1:8501/_stcore/health: ok.
+- Streamlit AppTest: initial render, January filter, and local assistant verified.
+- Windows Task Scheduler registration provided but not executed.
+- Optional AI API integration unchanged and untested; no keys configured or calls made.

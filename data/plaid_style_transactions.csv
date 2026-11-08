@@ -1,0 +1,57 @@
+transaction_id,date,account_id,merchant,amount,direction
+BANK-00001,2026-01-03,VEGA-RENTALS-001,Daily self-drive bookings,7768.28,credit
+BANK-00002,2026-01-10,VEGA-RENTALS-001,Corporate self-drive rentals,4629.47,credit
+BANK-00003,2026-01-06,VEGA-RENTALS-001,Weekend rental bookings,2434.0,credit
+BANK-00004,2026-01-20,VEGA-RENTALS-001,Vehicle maintenance,1572.11,debit
+BANK-00005,2026-01-16,VEGA-RENTALS-001,Commercial auto insurance,1045.64,debit
+BANK-00006,2026-01-05,VEGA-RENTALS-001,Fuel station,553.08,debit
+BANK-00007,2026-01-19,VEGA-RENTALS-001,Employee payroll,2764.67,debit
+BANK-00008,2026-01-20,VEGA-RENTALS-001,Google Ads,452.72,debit
+BANK-00009,2026-01-23,VEGA-RENTALS-001,Parking facility rent,750.99,debit
+BANK-00010,2026-02-16,VEGA-RENTALS-001,Daily self-drive bookings,7953.97,credit
+BANK-00011,2026-02-21,VEGA-RENTALS-001,Corporate self-drive rentals,3733.16,credit
+BANK-00012,2026-02-03,VEGA-RENTALS-001,Weekend rental bookings,2495.57,credit
+BANK-00013,2026-02-08,VEGA-RENTALS-001,Vehicle maintenance,1622.11,debit
+BANK-00014,2026-02-13,VEGA-RENTALS-001,Commercial auto insurance,1366.52,debit
+BANK-00015,2026-02-09,VEGA-RENTALS-001,Fuel station,623.36,debit
+BANK-00016,2026-02-13,VEGA-RENTALS-001,Employee payroll,3726.29,debit
+BANK-00017,2026-02-15,VEGA-RENTALS-001,Google Ads,362.46,debit
+BANK-00018,2026-02-14,VEGA-RENTALS-001,Parking facility rent,714.53,debit
+BANK-00019,2026-03-04,VEGA-RENTALS-001,Daily self-drive bookings,7661.18,credit
+BANK-00020,2026-03-20,VEGA-RENTALS-001,Corporate self-drive rentals,4609.14,credit
+BANK-00021,2026-03-15,VEGA-RENTALS-001,Weekend rental bookings,2323.81,credit
+BANK-00022,2026-03-12,VEGA-RENTALS-001,Vehicle maintenance,1207.99,debit
+BANK-00023,2026-03-22,VEGA-RENTALS-001,Commercial auto insurance,1435.44,debit
+BANK-00024,2026-03-14,VEGA-RENTALS-001,Fuel station,796.89,debit
+BANK-00025,2026-03-25,VEGA-RENTALS-001,Employee payroll,3231.71,debit
+BANK-00026,2026-03-24,VEGA-RENTALS-001,Google Ads,356.56,debit
+BANK-00027,2026-03-12,VEGA-RENTALS-001,Parking facility rent,761.36,debit
+BANK-00028,2026-04-10,VEGA-RENTALS-001,Daily self-drive bookings,8805.66,credit
+BANK-00029,2026-04-15,VEGA-RENTALS-001,Corporate self-drive rentals,4844.35,credit
+BANK-00030,2026-04-23,VEGA-RENTALS-001,Weekend rental bookings,2495.33,credit
+BANK-00031,2026-04-08,VEGA-RENTALS-001,Vehicle maintenance,1667.97,debit
+BANK-00032,2026-04-09,VEGA-RENTALS-001,Commercial auto insurance,1194.35,debit
+BANK-00033,2026-04-25,VEGA-RENTALS-001,Fuel station,735.4,debit
+BANK-00034,2026-04-23,VEGA-RENTALS-001,Employee payroll,3699.52,debit
+BANK-00035,2026-04-23,VEGA-RENTALS-001,Google Ads,356.9,debit
+BANK-00036,2026-04-10,VEGA-RENTALS-001,Parking facility rent,741.1,debit
+BANK-00037,2026-05-15,VEGA-RENTALS-001,Daily self-drive bookings,6340.21,credit
+BANK-00038,2026-05-23,VEGA-RENTALS-001,Corporate self-drive rentals,3818.31,credit
+BANK-00039,2026-05-10,VEGA-RENTALS-001,Weekend rental bookings,2954.74,credit
+BANK-00040,2026-05-04,VEGA-RENTALS-001,Vehicle maintenance,1576.93,debit
+BANK-00041,2026-05-04,VEGA-RENTALS-001,Commercial auto insurance,1120.25,debit
+BANK-00042,2026-05-15,VEGA-RENTALS-001,Fuel station,773.92,debit
+BANK-00043,2026-05-09,VEGA-RENTALS-001,Employee payroll,2828.6,debit
+BANK-00044,2026-05-21,VEGA-RENTALS-001,Google Ads,508.91,debit
+BANK-00045,2026-05-13,VEGA-RENTALS-001,Parking facility rent,992.86,debit
+BANK-00046,2026-06-18,VEGA-RENTALS-001,Daily self-drive bookings,6487.88,credit
+BANK-00047,2026-06-23,VEGA-RENTALS-001,Corporate self-drive rentals,4034.49,credit
+BANK-00048,2026-06-11,VEGA-RENTALS-001,Weekend rental bookings,2697.91,credit
+BANK-00049,2026-06-20,VEGA-RENTALS-001,Vehicle maintenance,1245.03,debit
+BANK-00050,2026-06-21,VEGA-RENTALS-001,Commercial auto insurance,1282.96,debit
+BANK-00051,2026-06-21,VEGA-RENTALS-001,Fuel station,666.36,debit
+BANK-00052,2026-06-10,VEGA-RENTALS-001,Employee payroll,3000.02,debit
+BANK-00053,2026-06-07,VEGA-RENTALS-001,Google Ads,524.12,debit
+BANK-00054,2026-06-05,VEGA-RENTALS-001,Parking facility rent,861.9,debit
+BANK-00055,2026-06-27,VEGA-RENTALS-001,Unidentified vendor ACH,275.0,debit
+BANK-00001,2026-01-03,VEGA-RENTALS-001,Daily self-drive bookings,7768.28,credit
